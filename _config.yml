@@ -10,6 +10,11 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
+
+
+#permalink: /404.html
+
+
 # jekyll-paginate configuration
 paginate:            5
 
