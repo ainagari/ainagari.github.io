@@ -11,3 +11,5 @@ After that, I followed the Erasmus Mundus Master [Language and Communication Tec
 During my studies, I worked as a student assistant in four occasions for the University of Barcelona, Universitat Pompeu Fabra and the University of Saarland, working in different (computational) linguistics-related topics, such as corpus annotation.
 
 My mother tongue is Catalan, I speak Spanish fluently, English and Russian decently enough, and some French and German. 
+
+My name is pronounced `['ajnə]` and my surnames `[gə'ɾi su'le]`.
