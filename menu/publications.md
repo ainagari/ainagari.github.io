@@ -16,6 +16,11 @@ title: Publications
 * **Aina Garí Soler**, Anne Cocos, Marianna Apidianaki and Chris Callison-Burch (2019). [A Comparison of Context-sensitive Models for Lexical Substitution](https://www.aclweb.org/anthology/W19-0423). _Proceedings of the 13th International Conference on Computational Semantics (IWCS 2019), 23-27 May, Gothenburg, Sweden._
 
 
+* Antonia Tovar, **Aina Garí Soler**, Jesús Ruiz-Idiago, Celia Mareca Viladrich, Edith Pomarol-Clotet, Joana Rosselló, Wolfram Hinzen. 2019. Specifying linguistic impairment in manifest and pre-manifest Huntington’s disease. _In Journal of Communication Disorders, in press._
+
+* Antonia Tovar Torres, Wolfgang Sebastian Schmeisser Nieto, **Aina Garí Soler**, Catalina Morey Matamalas, Wolfram Hinzen (2019). [Language disintegration under conditions of severe formal thought disorder.](https://www.glossa-journal.org/article/10.5334/gjgl.720/) _In Glossa: A Journal of General Linguistics, 4(1), 134._
+
+
 * **Aina Garí**, Marianna Apidianaki and Alexandre Allauzen (2018). [A comparative study of word embeddings and other features for lexical complexity detection in French](https://perso.limsi.fr/marianna/taln-complexity-3.pdf). _Proceedings of TALN, May 14-18, Rennes, France._
 
 * Mariona Taulé, M. Antònia Martí, Ann Bies, **Aina Garí**, Montserrat Nofre, Zhiyi Song, Stephanie Strassel and Joe Ellis (2015). [Spanish Treebank Annotation of Informal Non-Standard Web Text](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/nlpit2015-spanish-treebank-annotation.pdf). _Daniel, F. and Díaz O. (Eds.) Proceedings of ICWE-2015, Lecture Notes in Computer Science. Springer Verlag. ISSN 0302-9743._
