@@ -7,7 +7,7 @@ I completed my Bachelor's degree in Linguistics at the University of Barcelona i
 
 After that, I followed the Erasmus Mundus Master [Language and Communication Technologies](https://lct-master.org/), which took me to Saarland University (Saarbrücken, Germany) and the University of Malta (Msida, Malta), for a year each. My Master's thesis on near-synonymy can be found [here](https://lct-master.org/getfile.php?id=2682&n=1&dt=TH&ft=pdf&type=TH).
 
-During my studies, I worked as a student assistant in four occasions for the University of Barcelona, Universitat Pompeu Fabra and the University of Saarland, working in different (computational) linguistics-related topics, such as corpus annotation.
+During my studies, I worked as a student assistant in four occasions for the University of Barcelona, Pompeu Fabra University and the University of Saarland, working in different (computational) linguistics-related topics, such as corpus annotation.
 
 My mother tongue is Catalan, I speak Spanish fluently, English and Russian decently enough, and some French and German. My name is pronounced `['ajnə]` and my two last names `[gə'ɾi su'ɫe]`.
 
