@@ -3,7 +3,8 @@ layout: page
 title: Home
 ---
 
-<img style="float: right;" src="aina_photo.jpg">
+
+<img align="right" src="aina_photo.jpg">
 
 I'm a third-year PhD student at the TLP group of the LIMSI lab, in Orsay, France, under the supervision of Marianna Apidianaki and Alexandre Allauzen. My thesis is part of the ANR [MultiSem](https://sites.google.com/view/multisem/home) project.
 
