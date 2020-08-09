@@ -15,7 +15,7 @@ I'm particularly interested in representations of words and meaning in context, 
 
 ### News
 
-* **Feb 2019**: Gave a talk at the [Research Seminar Language Technology](https://blogs.helsinki.fi/language-technology/research-seminar/) of the Department of Digital Humanities, University of Helsinki.
+* **Feb 2020**: Gave a talk at the [Research Seminar Language Technology](https://blogs.helsinki.fi/language-technology/research-seminar/) of the Department of Digital Humanities, University of Helsinki.
 * **Dec 2019**: After a very long wait, the work done during my collaboration with the [Grammar & Cognition Lab](http://grammar.cat/) (Universitat de Barcelona & Universitat Pompeu Fabra) has been accepted in the journals *Glossa* and *Communication Disorders*.
 * **Jul 2019**: Attended [ACL](http://www.acl2019.org/EN/index.xhtml) in Florence, Italy.
 * **Jun 2019**: Attended [*SEM](https://starsem.org/2019/) in Minneapolis, MN, co-located with NAACL, to present our work on Usage Similarity Estimation.
