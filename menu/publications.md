@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-* **Aina Garí Soler** and Marianna Apidianaki (2020). BERT Knows Punta Cana is not just Beautiful, it's Gorgeous: Ranking Scalar Adjectives with Contextualised Representations. In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 16-20._
+* **Aina Garí Soler** and Marianna Apidianaki (2020). BERT Knows Punta Cana is not just _beautiful_, it's _gorgeous_: Ranking Scalar Adjectives with Contextualised Representations. In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 16-20._
 
 * **Aina Garí Soler** and Marianna Apidianaki (2020). [MULTISEM at SemEval-2020 Task 3: Fine-tuning BERT for Lexical Meaning](https://arxiv.org/abs/2007.12432). In _Proceedings of the 14th International Workshop on Semantic Evaluation, Dec 12-13, Barcelona, Spain._
 
