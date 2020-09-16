@@ -13,8 +13,11 @@ My broad research area is Natural Language Processing, and more concretely I am 
 I'm particularly interested in representations of words and meaning in context, but my general research interests also include paraphrasing, lexical style and semantic ambiguity.
 
 
+
 ### News
 
+* **Sep 2020**: Our paper on scalar adjective ranking with BERT has been accepted at **EMNLP 2020**!
+* **May 2019**: Participated in [SemEval 2020 task 3: Graded Word Similarity in Context](https://competitions.codalab.org/competitions/20905).
 * **Feb 2020**: Gave a talk at the [Research Seminar Language Technology](https://blogs.helsinki.fi/language-technology/research-seminar/) of the Department of Digital Humanities, University of Helsinki.
 * **Dec 2019**: After a very long wait, the work done during my collaboration with the [Grammar & Cognition Lab](http://grammar.cat/) (Universitat de Barcelona & Universitat Pompeu Fabra) has been accepted in the journals *Glossa* and *Communication Disorders*.
 * **Jul 2019**: Attended [ACL](http://www.acl2019.org/EN/index.xhtml) in Florence, Italy.
