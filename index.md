@@ -12,8 +12,8 @@ My broad research area is Natural Language Processing, and more concretely I am 
 
 I'm particularly interested in representations of words and meaning in context, but my general research interests also include paraphrasing, lexical style and semantic ambiguity.
 
-
-
+<br>
+<br>
 
 
 ### News
