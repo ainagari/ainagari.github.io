@@ -3,10 +3,13 @@ layout: page
 title: Publications
 ---
 
+#### 2020
 
 * **Aina Garí Soler** and Marianna Apidianaki (2020). BERT Knows Punta Cana is not just _beautiful_, it's _gorgeous_: Ranking Scalar Adjectives with Contextualised Representations. In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 16-20._
 
 * **Aina Garí Soler** and Marianna Apidianaki (2020). [MULTISEM at SemEval-2020 Task 3: Fine-tuning BERT for Lexical Meaning](https://arxiv.org/abs/2007.12432). In _Proceedings of the 14th International Workshop on Semantic Evaluation, Dec 12-13, Barcelona, Spain._
+
+#### 2019
 
 * **Aina Garí Soler**, Marianna Apidianaki and Alexandre Allauzen (2019). [LIMSI-MultiSem at the IJCAI SemDeep-5 WiC Challenge: Context Representations for Word Usage Similarity Estimation](http://www.dfki.de/~declerck/semdeep-5/papers/wic_SemDeep-5_paper_4.pdf). In _5th Workshop on Semantic Deep Learning (SemDeep-5)._
 
@@ -23,6 +26,7 @@ title: Publications
 
 * Antonia Tovar Torres, Wolfgang Sebastian Schmeisser Nieto, **Aina Garí Soler**, Catalina Morey Matamalas, Wolfram Hinzen (2019). [Language disintegration under conditions of severe formal thought disorder.](https://www.glossa-journal.org/article/10.5334/gjgl.720/) In _Glossa: A Journal of General Linguistics, 4(1), 134._
 
+#### Earlier
 
 * **Aina Garí**, Marianna Apidianaki and Alexandre Allauzen (2018). [A comparative study of word embeddings and other features for lexical complexity detection in French](https://perso.limsi.fr/marianna/taln-complexity-3.pdf). In  _Proceedings of TALN, May 14-18, Rennes, France._
 
