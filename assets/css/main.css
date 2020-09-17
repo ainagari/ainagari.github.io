@@ -26,7 +26,7 @@ body {
 
 @media (max-width: 60em) {
   body {
-    font-size: 14px;
+    font-size: 15vmin;
     line-height: 1.5rem;
   }
   body h1 {
