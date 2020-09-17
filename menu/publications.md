@@ -26,7 +26,7 @@ title: Publications
 
 * Antonia Tovar Torres, Wolfgang Sebastian Schmeisser Nieto, **Aina Garí Soler**, Catalina Morey Matamalas, Wolfram Hinzen (2019). [Language disintegration under conditions of severe formal thought disorder.](https://www.glossa-journal.org/article/10.5334/gjgl.720/) In _Glossa: A Journal of General Linguistics, 4(1), 134._
 
-#### Earlier
+#### Older
 
 * **Aina Garí**, Marianna Apidianaki and Alexandre Allauzen (2018). [A comparative study of word embeddings and other features for lexical complexity detection in French](https://perso.limsi.fr/marianna/taln-complexity-3.pdf). In  _Proceedings of TALN, May 14-18, Rennes, France._
 
