@@ -28,7 +28,7 @@ title: Publications
 
 #### Older
 
-* **Aina Garí**, Marianna Apidianaki and Alexandre Allauzen (2018). [A comparative study of word embeddings and other features for lexical complexity detection in French](https://perso.limsi.fr/marianna/taln-complexity-3.pdf). In  _Proceedings of TALN, May 14-18, Rennes, France._
+* **Aina Garí**, Marianna Apidianaki and Alexandre Allauzen (2018). [A comparative study of word embeddings and other features for lexical complexity detection in French](https://www.semanticscholar.org/paper/A-comparative-study-of-word-embeddings-and-other-in-Soler-Apidianaki/19329470f1ec5a3f7a4b817e3bc912aa82d9b7f2?p2df). In  _Proceedings of TALN, May 14-18, Rennes, France._
 
 * Mariona Taulé, M. Antònia Martí, Ann Bies, **Aina Garí**, Montserrat Nofre, Zhiyi Song, Stephanie Strassel and Joe Ellis (2015). [Spanish Treebank Annotation of Informal Non-Standard Web Text](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/nlpit2015-spanish-treebank-annotation.pdf). In _Daniel, F. and Díaz O. (Eds.) Proceedings of ICWE-2015, Lecture Notes in Computer Science. Springer Verlag. ISSN 0302-9743._
 
