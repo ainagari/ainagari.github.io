@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+#### 2021
+
+**Aina Garí Soler** and Marianna Apidianaki (2021). Scalar Adjective Identification and Multilingual Ranking. In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11_ 
+
 #### 2020
 
 * **Aina Garí Soler** and Marianna Apidianaki (2020). [BERT Knows Punta Cana is not just _beautiful_, it's _gorgeous_: Ranking Scalar Adjectives with Contextualised Representations](https://arxiv.org/abs/2010.02686). In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 16-20._
