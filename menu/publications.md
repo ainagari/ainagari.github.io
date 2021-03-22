@@ -5,7 +5,7 @@ title: Publications
 
 #### 2021
 
-**Aina Garí Soler** and Marianna Apidianaki (2021). Scalar Adjective Identification and Multilingual Ranking. In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11_ 
+* **Aina Garí Soler** and Marianna Apidianaki (2021). Scalar Adjective Identification and Multilingual Ranking. In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11_ 
 
 #### 2020
 
