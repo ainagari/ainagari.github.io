@@ -5,7 +5,9 @@ title: Publications
 
 #### 2021
 
-* **Aina Garí Soler** and Marianna Apidianaki (2021). Scalar Adjective Identification and Multilingual Ranking. In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11._ 
+* **Aina Garí Soler** and Marianna Apidianaki (2021). Let's Play mono-poly: BERT Can Reveal Words’ Degree of Polysemy and Partitionability into Senses. To appear in _Transactions of the Association for Computational Linguistics (TACL)._
+
+* **Aina Garí Soler** and Marianna Apidianaki (2021). Scalar Adjective Identification and Multilingual Ranking. To appear in _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11._ 
 
 #### 2020
 
