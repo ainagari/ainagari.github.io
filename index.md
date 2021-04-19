@@ -18,6 +18,7 @@ I'm particularly interested in representations of words and meaning in context, 
 
 ### News
 
+* **Apr 2021**: Our latest work has been accepted at **NAACL 2021** and **TACL**! Coming up soon...
 * **Sep 2020**: Our paper on scalar adjective ranking with BERT has been accepted at **EMNLP 2020**!
 * **May 2020**: Participated in [SemEval 2020 task 3: Graded Word Similarity in Context](https://competitions.codalab.org/competitions/20905).
 * **Feb 2020**: Gave a talk at the [Research Seminar Language Technology](https://blogs.helsinki.fi/language-technology/research-seminar/) of the Department of Digital Humanities, University of Helsinki.
