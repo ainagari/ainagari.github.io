@@ -11,3 +11,12 @@ During my studies, I worked as a student assistant in four occasions for the Uni
 
 My mother tongue is Catalan, I speak Spanish fluently; English, Russian and French decently enough, and some German. My name is pronounced `['ajnə]` and my two last names `[gə'ɾi su'ɫe]`.
 
+
+<br>
+<br>
+
+
+### Service
+
+* Served as a reviewer for RANLP 2019, SemEval 2020, EACL 2021, SRW@EACL 2021, ACL 2021
+* Outstanding reviewer in EACL 2021
