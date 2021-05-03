@@ -5,15 +5,15 @@ title: Publications
 
 #### 2021
 
-* **Aina Garí Soler** and Marianna Apidianaki (2021). Let's Play mono-poly: BERT Can Reveal Words’ Degree of Polysemy and Partitionability into Senses. To appear in _Transactions of the Association for Computational Linguistics (TACL)._
+* **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://arxiv.org/abs/2104.14694). To appear in _Transactions of the Association for Computational Linguistics (TACL)._
 
 * **Aina Garí Soler** and Marianna Apidianaki (2021). Scalar Adjective Identification and Multilingual Ranking. To appear in _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11._ 
 
 #### 2020
 
-* **Aina Garí Soler** and Marianna Apidianaki (2020). [BERT Knows Punta Cana is not just _beautiful_, it's _gorgeous_: Ranking Scalar Adjectives with Contextualised Representations](https://arxiv.org/abs/2010.02686). In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 16-20._
+* **Aina Garí Soler** and Marianna Apidianaki (2020). [BERT Knows Punta Cana is not just _beautiful_, it's _gorgeous_: Ranking Scalar Adjectives with Contextualised Representations](https://www.aclweb.org/anthology/2020.emnlp-main.598/). In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 16-20._
 
-* **Aina Garí Soler** and Marianna Apidianaki (2020). [MULTISEM at SemEval-2020 Task 3: Fine-tuning BERT for Lexical Meaning](https://arxiv.org/abs/2007.12432). In _Proceedings of the 14th International Workshop on Semantic Evaluation, Dec 12-13, Barcelona, Spain._
+* **Aina Garí Soler** and Marianna Apidianaki (2020). [MULTISEM at SemEval-2020 Task 3: Fine-tuning BERT for Lexical Meaning](https://www.aclweb.org/anthology/2020.semeval-1.18/). In _Proceedings of the 14th International Workshop on Semantic Evaluation, Dec 12-13, Barcelona, Spain._
 
 #### 2019
 
