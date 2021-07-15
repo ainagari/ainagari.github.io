@@ -19,4 +19,4 @@ My mother tongue is Catalan, I speak Spanish fluently; English, Russian and Fren
 ### Service
 
 * Served as a reviewer for RANLP 2019, SemEval 2020, EACL 2021, SRW@EACL 2021, ACL 2021
-* Outstanding reviewer in EACL 2021
+* Outstanding reviewer in EACL 2021 and ACL 2021
