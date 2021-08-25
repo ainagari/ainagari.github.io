@@ -6,7 +6,10 @@ title: Home
 
 <img align="left" style="padding-right: 30px" src="pic_mx.jpg">
 
-I'm a 4th year PhD student at the TLP group of the LISN lab (former LIMSI), in Orsay, France, under the supervision of Marianna Apidianaki and Alexandre Allauzen. My thesis is part of the ANR [MultiSem](https://sites.google.com/view/multisem/home) project.
+Since September 2021, I'll be a postdoctoral researcher at [Télécom-Paris](https://www.telecom-paris.fr/) working with Chloé Clavel and Matthieu Labeau.
+
+I did my PhD at the [LISN](https://www.lisn.upsaclay.fr/) lab (former LIMSI), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), under the supervision of Marianna Apidianaki and Alexandre Allauzen.
+My thesis, defended in June 2021, addresses the representation of different aspects of word meaning in neural language models. It was part of the ANR [MultiSem](https://sites.google.com/view/multisem/home) project.
 
 My broad research area is Natural Language Processing, and more concretely I am working on Computational Lexical Semantics with a focus on the adaptation of linguistic representations to semantic properties of words.
 
