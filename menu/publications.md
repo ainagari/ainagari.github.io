@@ -34,6 +34,7 @@ title: Publications
 <normal>
     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_scalar2021');">[BibTeX]</a>
 </normal>
+<div id="bib_scalar2021" style="display:none;">
 <small>
 <a class="btn"  onclick="copyToClip('bib_scalar2021');">Copy</a>
 <div class="highlighter-rouge"><pre id="bib_scalar2021" class="highlight">
