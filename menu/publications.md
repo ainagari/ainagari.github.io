@@ -31,9 +31,11 @@ title: Publications
 * **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://arxiv.org/abs/2104.14694). In _Transactions of the Association for Computational Linguistics (TACL)._
 
 * **Aina Garí Soler** and Marianna Apidianaki (2021). [Scalar Adjective Identification and Multilingual Ranking](https://arxiv.org/abs/2105.01180). In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11._ 
-<div id="bib_scalar2021" style="display:none;">
+<normal>
+    <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_scalar2021');">[BibTeX]</a>
+</normal>
 <small>
-<a class="btn"  onclick="copyToClip('bib_scalar2021');">copy to clipboard</a>
+<a class="btn"  onclick="copyToClip('bib_scalar2021');">Copy</a>
 <div class="highlighter-rouge"><pre id="bib_scalar2021" class="highlight">
 @inproceedings{gari-soler-apidianaki-2021-scalar,
     title = {{Scalar Adjective Identification and Multilingual Ranking}},
