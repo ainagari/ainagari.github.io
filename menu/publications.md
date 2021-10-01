@@ -3,6 +3,27 @@ layout: page
 title: Publications
 ---
 
+<script type="text/javascript">
+   function toggleVisibility(block_id) {
+       var e = document.getElementById(block_id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+   }
+    function copyToClip(element) {
+        var str = document.getElementById(element).innerHTML;
+        function listener(e) {
+            e.clipboardData.setData("text/html", str);
+            e.clipboardData.setData("text/plain", str);
+            e.preventDefault();
+        }
+        document.addEventListener("copy", listener);
+        document.execCommand("copy");
+        document.removeEventListener("copy", listener);
+};
+</script>
+
 #### 2021
 
 * Marianna Apidianaki and **Aina Garí Soler** (2021). ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality. To appear in _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, Punta Cana, Dominican Republic and Online, November, 11._ 
@@ -10,6 +31,26 @@ title: Publications
 * **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://arxiv.org/abs/2104.14694). In _Transactions of the Association for Computational Linguistics (TACL)._
 
 * **Aina Garí Soler** and Marianna Apidianaki (2021). [Scalar Adjective Identification and Multilingual Ranking](https://arxiv.org/abs/2105.01180). In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11._ 
+<div id="bib_scalar2021" style="display:none;">
+<small>
+<a class="btn"  onclick="copyToClip('bib_scalar2021');">copy to clipboard</a>
+<div class="highlighter-rouge"><pre id="bib_scalar2021" class="highlight">
+@inproceedings{gari-soler-apidianaki-2021-scalar,
+    title = {{Scalar Adjective Identification and Multilingual Ranking}},
+    author = "Gar{\'\i} Soler, Aina  and
+      Apidianaki, Marianna",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.naacl-main.370",
+    doi = "10.18653/v1/2021.naacl-main.370",
+    pages = "4653--4660",   
+}
+</pre></div></small>
+</div>
+
 
 #### 2020
 
