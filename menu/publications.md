@@ -61,7 +61,7 @@ title: Publications
 <a class="btn"  onclick="copyToClip('bib_scalar2020');">Copy</a>
 <div class="highlighter-rouge"><pre id="bib_scalar2020" class="highlight">
 @inproceedings{gari-soler-apidianaki-2020-bert,
-    title = {{BERT Knows Punta Cana is not just beautiful, it{'}s gorgeous: Ranking Scalar Adjectives with Contextualised Representations}},
+    title = "{BERT} {K}nows {P}unta {C}ana is not just beautiful, it{'}s gorgeous: {R}anking {S}calar {A}djectives with {C}ontextualised {R}epresentations",
     author = "Gar{\'\i} Soler, Aina  and
       Apidianaki, Marianna",
     booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
