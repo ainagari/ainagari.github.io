@@ -28,7 +28,26 @@ title: Publications
 
 * Marianna Apidianaki and **Aina Garí Soler** (2021). ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality. To appear in _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, Punta Cana, Dominican Republic and Online, November, 11._ 
 
-* **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://arxiv.org/abs/2104.14694). In _Transactions of the Association for Computational Linguistics (TACL)._
+* **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://arxiv.org/abs/2104.14694). In _Transactions of the Association for Computational Linguistics (TACL)._ <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_monopoly2021');">[BibTeX]</a>
+<div id="bib_monopoly2021" style="display:none;">
+<small>
+<a class="btn"  onclick="copyToClip('bib_monopoly2021');">Copy</a>
+<div class="highlighter-rouge"><pre id="bib_monopoly2021" class="highlight">
+@article{gari-soler-apidianaki-2021-monopoly,
+    author = {Garí Soler, Aina and Apidianaki, Marianna},
+    title = "{Let’s Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {9},
+    pages = {825-844},
+    year = {2021},
+    month = {08},   
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00400},
+    url = {https://doi.org/10.1162/tacl\_a\_00400},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00400/1955204/tacl\_a\_00400.pdf},
+}
+</pre></div></small>
+</div>
 
 * **Aina Garí Soler** and Marianna Apidianaki (2021). [Scalar Adjective Identification and Multilingual Ranking](https://arxiv.org/abs/2105.01180). In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11._ 
     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_scalar2021');">[BibTeX]</a>
@@ -37,7 +56,7 @@ title: Publications
 <a class="btn"  onclick="copyToClip('bib_scalar2021');">Copy</a>
 <div class="highlighter-rouge"><pre id="bib_scalar2021" class="highlight">
 @inproceedings{gari-soler-apidianaki-2021-scalar,
-    title = {{Scalar Adjective Identification and Multilingual Ranking}},
+    title = "{S}calar {A}djective {I}dentification and {M}ultilingual {R}anking",
     author = "Gar{\'\i} Soler, Aina  and
       Apidianaki, Marianna",
     booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
@@ -82,7 +101,7 @@ title: Publications
 <a class="btn"  onclick="copyToClip('bib_semeval2020');">Copy</a>
 <div class="highlighter-rouge"><pre id="bib_semeval2020" class="highlight">
 @inproceedings{gari-soler-apidianaki-2020-multisem,
-    title = {{MULTISEM at SemEval-2020 Task 3: Fine-tuning BERT for Lexical Meaning}},
+    title = "{MULTISEM} at {S}em{E}val-2020 {T}ask 3: {F}ine-tuning {BERT} for {L}exical {M}eaning",
     author = "Gar{\'\i} Soler, Aina  and
       Apidianaki, Marianna",
     booktitle = "Proceedings of the Fourteenth Workshop on Semantic Evaluation",
@@ -104,7 +123,7 @@ title: Publications
 <a class="btn"  onclick="copyToClip('bib_semdeep2019');">Copy</a>
 <div class="highlighter-rouge"><pre id="bib_semdeep2019" class="highlight">
 @inproceedings{gari-soler-etal-2019-limsi,
-    title = {{LIMSI-MULTISEM at the IJCAI SemDeep-5 WiC Challenge: Context Representations for Word Usage Similarity Estimation}},
+    title = "{LIMSI-MULTISEM} at the {IJCAI} {S}em{D}eep-5 {W}i{C} {C}hallenge: {C}ontext {R}epresentations for {W}ord {U}sage {S}imilarity {E}stimation",
     author = "Gar{\'\i} Soler, Aina  and
       Apidianaki, Marianna  and
       Allauzen, Alexandre",
@@ -126,7 +145,7 @@ title: Publications
 <a class="btn"  onclick="copyToClip('bib_usim2019');">Copy</a>
 <div class="highlighter-rouge"><pre id="bib_usim2019" class="highlight">
 @inproceedings{gari-soler-etal-2019-word,
-    title = {{Word Usage Similarity Estimation with Sentence Representations and Automatic Substitutes}},
+    title = "{W}ord {U}sage {S}imilarity {E}stimation with {S}entence {R}epresentations and {A}utomatic {S}ubstitutes",
     author = "Gar{\'\i} Soler, Aina  and
       Apidianaki, Marianna  and
       Allauzen, Alexandre",
@@ -150,7 +169,7 @@ title: Publications
 <a class="btn"  onclick="copyToClip('bib_informativeness2019');">Copy</a>
 <div class="highlighter-rouge"><pre id="bib_informativeness2019" class="highlight">
 @inproceedings{montariol-etal-2019-exploring,
-    title = {{Exploring sentence informativeness}},
+    title = "{E}xploring sentence informativeness",
     author = "Montariol, Syrielle  and
       Gar{\'\i} Soler, Aina  and
       Allauzen, Alexandre",
@@ -172,7 +191,7 @@ title: Publications
 <a class="btn"  onclick="copyToClip('bib_lexsub2019');">Copy</a>
 <div class="highlighter-rouge"><pre id="bib_lexsub2019" class="highlight">
 @inproceedings{gari-soler-etal-2019-comparison,
-    title = {{A Comparison of Context-sensitive Models for Lexical Substitution}},
+    title = "{A} {C}omparison of {C}ontext-sensitive {M}odels for {L}exical {S}ubstitution",
     author = "Gar{\'\i} Soler, Aina  and
       Cocos, Anne  and
       Apidianaki, Marianna  and
