@@ -28,7 +28,7 @@ title: Publications
 
 * Marianna Apidianaki and **Aina Garí Soler** (2021). [ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality](https://arxiv.org/abs/2110.06376). To appear in _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, Punta Cana, Dominican Republic and Online, November, 11._ 
 
-* **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://arxiv.org/abs/2104.14694). In _Transactions of the Association for Computational Linguistics (TACL)._ <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_monopoly2021');">[BibTeX]</a>
+* **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00400/106797/Let-s-Play-Mono-Poly-BERT-Can-Reveal-Words). In _Transactions of the Association for Computational Linguistics (TACL)._ <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_monopoly2021');">[BibTeX]</a>
 <div id="bib_monopoly2021" style="display:none;">
 <small>
 <a class="btn"  onclick="copyToClip('bib_monopoly2021');">Copy</a>
@@ -49,7 +49,7 @@ title: Publications
 </pre></div></small>
 </div>
 
-* **Aina Garí Soler** and Marianna Apidianaki (2021). [Scalar Adjective Identification and Multilingual Ranking](https://arxiv.org/abs/2105.01180). In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11._ 
+* **Aina Garí Soler** and Marianna Apidianaki (2021). [Scalar Adjective Identification and Multilingual Ranking](https://aclanthology.org/2021.naacl-main.370/). In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11._ 
     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_scalar2021');">[BibTeX]</a>
 <div id="bib_scalar2021" style="display:none;">
 <small>
