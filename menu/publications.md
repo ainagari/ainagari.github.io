@@ -24,11 +24,19 @@ title: Publications
 };
 </script>
 
+
+#### 2022
+
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2022). Polysemy in Spoken Conversations and Written Texts. To appear in _Proceedings of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, June 20-25._ 
+
 #### 2021
 
-* Marianna Apidianaki and **Aina Garí Soler** (2021). [ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality](https://arxiv.org/abs/2110.06376). To appear in _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, Punta Cana, Dominican Republic and Online, November, 11._ 
+* Marianna Apidianaki and **Aina Garí Soler** (2021). [ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality](https://arxiv.org/abs/2110.06376). In _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, Punta Cana, Dominican Republic and Online, November, 11._ 
 
-* **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00400/106797/Let-s-Play-Mono-Poly-BERT-Can-Reveal-Words). In _Transactions of the Association for Computational Linguistics (TACL)._ <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_monopoly2021');">[BibTeX]</a>
+* **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00400/106797/Let-s-Play-Mono-Poly-BERT-Can-Reveal-Words). In _Transactions of the Association for Computational Linguistics (TACL)._ 
+<normal>
+     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_monopoly2021');">[BibTeX]</a>
+</normal>
 <div id="bib_monopoly2021" style="display:none;">
 <small>
 <a class="btn"  onclick="copyToClip('bib_monopoly2021');">Copy</a>
