@@ -53,8 +53,7 @@ title: Publications
 
 * **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00400/106797/Let-s-Play-Mono-Poly-BERT-Can-Reveal-Words). In _Transactions of the Association for Computational Linguistics (TACL)._ <normal>
      <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_monopoly2021');">[BibTeX]</a> </normal>
-<div id="bib_monopoly2021" style="display:none;">
-<small> <a class="btn"  onclick="copyToClip('bib_monopoly2021');">copy to clipboard</a>
+<div id="bib_monopoly2021" style="display:none;"> <small> <a class="btn"  onclick="copyToClip('bib_monopoly2021');">copy to clipboard</a>
 <div class="highlighter-rouge"><pre id="bib_monopoly2021" class="highlight">
 @article{gari-soler-apidianaki-2021-monopoly,
     author = {Garí Soler, Aina and Apidianaki, Marianna},
