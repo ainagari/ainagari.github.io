@@ -31,7 +31,26 @@ title: Publications
 
 #### 2021
 
-* Marianna Apidianaki and **Aina Garí Soler** (2021). [ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality](https://arxiv.org/abs/2110.06376). In _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, Punta Cana, Dominican Republic and Online, November, 11._ 
+* Marianna Apidianaki and **Aina Garí Soler** (2021). [ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality](https://aclanthology.org/2021.blackboxnlp-1.7). In _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, Punta Cana, Dominican Republic and Online, November, 11._ <normal>
+     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_prototypicality2021');">[BibTeX]</a> </normal>
+<div id="bib_monopoly2021" style="display:none;">
+<small> <a class="btn"  onclick="copyToClip('bib_prototypicality2021');">copy to clipboard</a>
+<div class="highlighter-rouge"><pre id="bib_prototypicality2021" class="highlight">
+@inproceedings{apidianaki-gari-soler-2021-dolphins,
+    title = "{ALL} Dolphins Are Intelligent and {SOME} Are Friendly: Probing {BERT} for Nouns{'} Semantic Properties and their Prototypicality",
+    author = "Apidianaki, Marianna  and
+      Gar{\'\i} Soler, Aina",
+    booktitle = "Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.blackboxnlp-1.7",
+    doi = "10.18653/v1/2021.blackboxnlp-1.7",
+    pages = "79--94",    
+}
+</pre></div></small>
+</div>
 
 * **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00400/106797/Let-s-Play-Mono-Poly-BERT-Can-Reveal-Words). In _Transactions of the Association for Computational Linguistics (TACL)._ <normal>
      <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_monopoly2021');">[BibTeX]</a> </normal>
