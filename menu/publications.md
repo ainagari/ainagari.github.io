@@ -33,7 +33,7 @@ title: Publications
 
 * Marianna Apidianaki and **Aina Garí Soler** (2021). [ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality](https://aclanthology.org/2021.blackboxnlp-1.7). In _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, Punta Cana, Dominican Republic and Online, November, 11._ <normal>
      <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bib_prototypicality2021');">[BibTeX]</a> </normal>
-<div id="bib_monopoly2021" style="display:none;">
+<div id="bib_prototypicality2021" style="display:none;">
 <small> <a class="btn"  onclick="copyToClip('bib_prototypicality2021');">copy to clipboard</a>
 <div class="highlighter-rouge"><pre id="bib_prototypicality2021" class="highlight">
 @inproceedings{apidianaki-gari-soler-2021-dolphins,
