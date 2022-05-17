@@ -31,4 +31,4 @@ I'm particularly interested in representations of words and meaning in context, 
 * **Jul 2019**: Attended [ACL](http://www.acl2019.org/EN/index.xhtml) in Florence, Italy.
 * **Jun 2019**: Attended [*SEM](https://starsem.org/2019/) in Minneapolis, MN, co-located with NAACL, to present our work on Usage Similarity Estimation.
 * **May 2019**: Participated in the [SemDeep-5 WiC Challenge](http://www.dfki.de/~declerck/semdeep-5/challenge.html).
- <! -- * **May 2019**: Attended [IWCS](https://sites.google.com/view/iwcs2019/home) in Gothemburg, Sweden, to present our work on Lexical Substitution. -->
+ * **May 2019**: Attended [IWCS](https://sites.google.com/view/iwcs2019/home) in Gothemburg, Sweden, to present our work on Lexical Substitution.
