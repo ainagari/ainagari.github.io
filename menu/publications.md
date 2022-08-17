@@ -5,7 +5,10 @@ title: Publications
 
 #### 2022
 
-* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2022). Polysemy in Spoken Conversations and Written Texts. To appear in _Proceedings of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, June 20-25._ 
+
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2022). One Word, Two Sides: Traces of Stance in Contextualized Word Representations. In _Proceedings of the 28th International Conference on Computational Linguistics (COLING), Gyeongju, Korea, October 12-17._ 
+
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2022). Polysemy in Spoken Conversations and Written Texts. In _Proceedings of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, June 20-25._ 
 
 #### 2021
 
