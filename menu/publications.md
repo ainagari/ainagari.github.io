@@ -8,7 +8,7 @@ title: Publications
 
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2022). One Word, Two Sides: Traces of Stance in Contextualized Word Representations. To appear in _Proceedings of the 29th International Conference on Computational Linguistics (COLING), Gyeongju, Korea, October 12-17._ 
 
-* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2022). Polysemy in Spoken Conversations and Written Texts. In _Proceedings of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, June 20-25._ 
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2022). [Polysemy in Spoken Conversations and Written Texts](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.179.pdf). In _Proceedings of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, June 20-25._ 
 
 #### 2021
 
@@ -31,7 +31,7 @@ title: Publications
 
 * **Aina Garí Soler**, Marianna Apidianaki and Alexandre Allauzen (2019). [Word Usage Similarity Estimation with Sentence Representations and Automatic Substitutes](https://www.aclweb.org/anthology/S19-1002). In *Proceedings of the 8th Joint Conference on Lexical and Computational Semantics (STARSEM2019), Jun 6-7, Minneapolis, USA.* `Accepted at ACL 2019` 
 
-* Syrielle Montariol, **Aina Garí Soler** and Alexandre Allauzen (2019). [Exploring sentence informativeness](https://arxiv.org/pdf/1907.08469.pdf). In  _Proceedings of TALN, Jul 1-5, Toulouse, France._ 
+* Syrielle Montariol, **Aina Garí Soler** and Alexandre Allauzen (2019). [Exploring sentence informativeness](https://aclanthology.org/2019.jeptalnrecital-court.16/). In  _Proceedings of TALN, Jul 1-5, Toulouse, France._ 
  
 
 * **Aina Garí Soler**, Anne Cocos, Marianna Apidianaki and Chris Callison-Burch (2019). [A Comparison of Context-sensitive Models for Lexical Substitution](https://www.aclweb.org/anthology/W19-0423). In _Proceedings of the 13th International Conference on Computational Semantics (IWCS 2019), 23-27 May, Gothenburg, Sweden._ 
