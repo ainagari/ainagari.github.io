@@ -21,6 +21,9 @@ I'm particularly interested in representations of words and meaning in context, 
 
 ### News
 
+* **Aug 2022**: One paper accepted at **COLING 2022**! More details soon
+* **Jun 2022**: Gave a talk at the Jozef Stefan Institute in Ljubjana, Slovenia.
+* **Apr 2022**: Our paper on polysemy in conversation and written texts has been accepted to **LREC 2022**!
 * **Sep 2021**: I started working as a postdoctoral researcher at Télécom Paris.
 * **Jun 24, 2021**: I defended my PhD thesis! You can find it [here](https://tel.archives-ouvertes.fr/tel-03341706/document).
 * **Apr 2021**: Our latest work has been accepted at **NAACL 2021** and **TACL**! 
