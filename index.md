@@ -21,7 +21,8 @@ I'm particularly interested in representations of words and meaning in context, 
 
 ### News
 
-* **Aug 2022**: One paper accepted at **COLING 2022**! More details soon.
+* **Jul 2023**: Our SICon paper on lexico-semantic alignment received the **Outstanding Paper Award**!
+* **Aug 2022**: One paper accepted at **COLING 2022**! 
 * **Jul 2022**: Gave a talk at the Jozef Stefan Institute in Ljubjana, Slovenia.
 * **Apr 2022**: Our paper on polysemy in conversation and written texts has been accepted to **LREC 2022**!
 * **Sep 2021**: I started working as a postdoctoral researcher at Télécom Paris.
