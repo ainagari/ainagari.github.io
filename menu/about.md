@@ -18,5 +18,5 @@ My mother tongue is Catalan, I speak Spanish fluently; English, Russian and Fren
 
 ### Service
 
-* Served as a reviewer for ACL (2021, 2023),  EMNLP (2021, 2022), EACL (2021), RANLP (2019, 2021), SemEval (2020), DeeLIO (2022), SRW@EACL (2021, 2023), RJC (2023), TAFFC, ARR
+* Served as a reviewer for ACL (2021, 2023),  EMNLP (2021, 2022, 2023), EACL (2021), RANLP (2019, 2021), SemEval (2020), DeeLIO (2022), SRW@EACL (2021, 2023), RJC (2023), TAFFC, ARR
 * Outstanding reviewer in EACL 2021 and ACL 2021
