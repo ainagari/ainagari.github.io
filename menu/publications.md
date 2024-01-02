@@ -4,6 +4,10 @@ title: Publications
 ---
 
 
+#### 2024
+
+
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2024). Impact of Word Splitting on the Semantic Content of Contextualized Word Representations. To appear in Transactions of the Association for Computational Linguistics (TACL).
 
 
 #### 2023
