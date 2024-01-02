@@ -15,7 +15,7 @@ title: Publications
 
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2023). [Measuring Lexico-Semantic Alignment in Debates with Contextualized Word Representations](https://aclanthology.org/2023.sicon-1.6/). In _Proceedings of the First Workshop on Social Influence in Conversations (SICon 2023), Toronto, Canada, July 14._ 🏆 **Outstanding Paper Award**
 
-* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2023). Un mot, deux facettes : traces des opinions dans les représentations contextualisées des mots. To appear in Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles. Volume 1 : conférence principale, Paris, France, June 5-8.
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2023). [Un mot, deux facettes : traces des opinions dans les représentations contextualisées des mots](https://aclanthology.org/2023.jeptalnrecital-international.6/). In Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles. Volume 1 : conférence principale, Paris, France, June 5-8.
 
 
 #### 2022
