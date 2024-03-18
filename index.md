@@ -11,7 +11,7 @@ Since September 2021, I'm a postdoctoral researcher at [Télécom-Paris](https:/
 I did my PhD at the [LISN](https://www.lisn.upsaclay.fr/) lab (former LIMSI), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), under the supervision of Marianna Apidianaki and Alexandre Allauzen.
 My thesis, defended in June 2021, addresses the representation of different aspects of word meaning in neural language models. It was part of the ANR [MultiSem](https://sites.google.com/view/multisem/home) project.
 
-My broad research area is Natural Language Processing (NLP), and more concretely I am focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization, lexical semantic change, among others. In my postdoc, I investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
+My broad research area is Natural Language Processing (NLP), and more concretely I am focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in multiple aspects of meaning: (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization and lexical semantic change, among others. In my postdoc, I investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
 
 <br>
 <br>
