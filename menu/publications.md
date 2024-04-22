@@ -7,7 +7,7 @@ title: Publications
 #### 2024
 
 
-* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2024). [The Impact of Word Splitting on the Semantic Content of Contextualized Word Representations](https://arxiv.org/abs/2402.14616). To appear in Transactions of the Association for Computational Linguistics (TACL).
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2024). [The Impact of Word Splitting on the Semantic Content of Contextualized Word Representations](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00647/120475/The-Impact-of-Word-Splitting-on-the-Semantic). In _Transactions of the Association for Computational Linguistics (TACL), 12 299–320_.
 
 
 #### 2023
@@ -15,7 +15,7 @@ title: Publications
 
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2023). [Measuring Lexico-Semantic Alignment in Debates with Contextualized Word Representations](https://aclanthology.org/2023.sicon-1.6/). In _Proceedings of the First Workshop on Social Influence in Conversations (SICon 2023), Toronto, Canada, July 14._ 🏆 **Outstanding Paper Award**
 
-* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2023). [Un mot, deux facettes : traces des opinions dans les représentations contextualisées des mots](https://aclanthology.org/2023.jeptalnrecital-international.6/). In Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 4 : articles déjà soumis ou acceptés en conférence internationale, Paris, France, June 5-8.
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2023). [Un mot, deux facettes : traces des opinions dans les représentations contextualisées des mots](https://aclanthology.org/2023.jeptalnrecital-international.6/). In _Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 4 : articles déjà soumis ou acceptés en conférence internationale, Paris, France, June 5-8._
 
 
 #### 2022
@@ -29,7 +29,7 @@ title: Publications
 
 * Marianna Apidianaki and **Aina Garí Soler** (2021). [ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality](https://aclanthology.org/2021.blackboxnlp-1.7). In _Proceedings of the Fourth BlackBoxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, Punta Cana, Dominican Republic and Online, November, 11._ 
 
-* **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00400/106797/Let-s-Play-Mono-Poly-BERT-Can-Reveal-Words). In _Transactions of the Association for Computational Linguistics (TACL)._
+* **Aina Garí Soler** and Marianna Apidianaki (2021). [Let's Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00400/106797/Let-s-Play-Mono-Poly-BERT-Can-Reveal-Words). In _Transactions of the Association for Computational Linguistics (TACL), 9 825–844._
 
 * **Aina Garí Soler** and Marianna Apidianaki (2021). [Scalar Adjective Identification and Multilingual Ranking](https://aclanthology.org/2021.naacl-main.370/). In _Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Mexico City, Mexico, June 6-11._ 
 
