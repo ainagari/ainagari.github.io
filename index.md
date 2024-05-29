@@ -19,6 +19,7 @@ My broad research area is Natural Language Processing (NLP), and more concretely
 
 ### News
 
+* **May 2024**: Attended LREC-COLING and gave a talk at the CS department of the University of Turin.
 * **Jan 2024**: Our paper on the semantic quality of split-word representations has been accepted to **TACL**!
 * **Jul 2023**: Our SICon paper on lexico-semantic alignment received the **Outstanding Paper Award**!
 * **Aug 2022**: One paper accepted at **COLING 2022**! 
