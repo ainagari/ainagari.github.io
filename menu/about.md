@@ -18,7 +18,7 @@ My mother tongue is Catalan, I speak Spanish fluently; English, Russian and Fren
 
 ### Service
 
-* Served as a reviewer for ACL (2021, 2023),  EMNLP (2021, 2022, 2023), EACL (2021), RANLP (2019, 2021, 2023), SemEval (2020), DeeLIO (2022), SRW@ACL (2023), SRW@EACL (2021, 2023), RJC (2023), NLP4DH-IWCLUL (2024), SICon (2023), TAFFC, ARR
+* Served as a reviewer for ACL (2021, 2023),  EMNLP (2021, 2022, 2023), EACL (2021), RANLP (2019, 2021, 2023), SemEval (2020), DeeLIO (2022), SRW@ACL (2023, 2024), SRW@EACL (2021, 2023), RJC (2023), NLP4DH-IWCLUL (2024), SICon (2023), TAFFC, ARR
 * Outstanding reviewer in EACL 2021 and ACL 2021
 * Area Chair/Action Editor of Lexical Semantics for LREC-COLING 2024, NAACL 2024, ACL 2024
 * Co-organizing the 2nd Workshop on Social Influence in Conversations (SICon 2024) co-located with EMNLP
