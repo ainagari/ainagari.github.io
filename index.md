@@ -6,7 +6,7 @@ title: Home
 
 <img align="left" style="padding-right: 30px" src="pic_mx.jpg">
 
-Since September 2021, I'm a postdoctoral researcher at [Télécom-Paris](https://www.telecom-paris.fr/) working with Chloé Clavel and Matthieu Labeau.
+Since September 2021, I've been a postdoctoral researcher working with Chloé Clavel and Matthieu Labeau, first at [Télécom-Paris](https://www.telecom-paris.fr/) and now with the [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team at INRIA, in Paris.
 
 I did my PhD at the [LISN](https://www.lisn.upsaclay.fr/) lab (former LIMSI), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), under the supervision of Marianna Apidianaki and Alexandre Allauzen.
 My thesis, defended in June 2021, addresses the representation of different aspects of word meaning in neural language models. It was part of the ANR [MultiSem](https://sites.google.com/view/multisem/home) project.
@@ -19,6 +19,7 @@ My broad research area is Natural Language Processing (NLP), and more concretely
 
 ### News
 
+* **Oct 2024**: Joined INRIA's [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team as a postdoctoral researcher.
 * **May 2024**: Attended LREC-COLING and gave a talk at the CS department of the University of Turin.
 * **Jan 2024**: Our paper on the semantic quality of split-word representations has been accepted to **TACL**!
 * **Jul 2023**: Our SICon paper on lexico-semantic alignment received the **Outstanding Paper Award**!
