@@ -12,7 +12,7 @@ Office B11\
 France
 
 
-Occasionally:
+Occasionally:\
 Office C5-14\
 19 place Marguerite Perey\
 F-91120 Palaiseau\
