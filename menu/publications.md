@@ -9,6 +9,8 @@ title: Publications
 
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2024). [The Impact of Word Splitting on the Semantic Content of Contextualized Word Representations](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00647/120475/The-Impact-of-Word-Splitting-on-the-Semantic). In _Transactions of the Association for Computational Linguistics (TACL), 12 299–320_.
 
+* **Aina Garí Soler** (2024). [The Use of the Grimacing Face Emoji and its Relation to Bruxism and Temporomandibular Joint Disorders](https://doi.org/10.31219/osf.io/yzsvr). OSF Preprints.
+  
 
 #### 2023
 
