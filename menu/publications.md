@@ -40,7 +40,9 @@ title: Publications
 
 * **Aina Garí Soler** and Marianna Apidianaki (2020). [BERT Knows Punta Cana is not just _beautiful_, it's _gorgeous_: Ranking Scalar Adjectives with Contextualised Representations](https://www.aclweb.org/anthology/2020.emnlp-main.598/). In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 16-20._ 
 
-* **Aina Garí Soler** and Marianna Apidianaki (2020). [MULTISEM at SemEval-2020 Task 3: Fine-tuning BERT for Lexical Meaning](https://www.aclweb.org/anthology/2020.semeval-1.18/). In _Proceedings of the 14th International Workshop on Semantic Evaluation, Dec 12-13, Barcelona, Spain._ 
+* **Aina Garí Soler** and Marianna Apidianaki (2020). [MULTISEM at SemEval-2020 Task 3: Fine-tuning BERT for Lexical Meaning](https://www.aclweb.org/anthology/2020.semeval-1.18/). In _Proceedings of the 14th International Workshop on Semantic Evaluation, Dec 12-13, Barcelona, Spain._
+
+* Antonia Tovar, **Aina Garí Soler**, Jesús Ruiz-Idiago, Celia Mareca Viladrich, Edith Pomarol-Clotet, Joana Rosselló, Wolfram Hinzen. 2020. [Language disintegration in spontaneous speech in Huntington’s disease: a more fine-grained analysis](https://doi.org/10.1016/j.jcomdis.2019.105970). In _Journal of Communication Disorders, 83 (2020): 105970._
 
 #### 2019
 
@@ -52,8 +54,6 @@ title: Publications
  
 
 * **Aina Garí Soler**, Anne Cocos, Marianna Apidianaki and Chris Callison-Burch (2019). [A Comparison of Context-sensitive Models for Lexical Substitution](https://www.aclweb.org/anthology/W19-0423). In _Proceedings of the 13th International Conference on Computational Semantics (IWCS 2019), 23-27 May, Gothenburg, Sweden._ 
-
-* Antonia Tovar, **Aina Garí Soler**, Jesús Ruiz-Idiago, Celia Mareca Viladrich, Edith Pomarol-Clotet, Joana Rosselló, Wolfram Hinzen. 2019. [Language disintegration in spontaneous speech in Huntington’s disease: a more fine-grained analysis](https://doi.org/10.1016/j.jcomdis.2019.105970). In _Journal of Communication Disorders, in press._
 
 * Antonia Tovar Torres, Wolfgang Sebastian Schmeisser Nieto, **Aina Garí Soler**, Catalina Morey Matamalas, Wolfram Hinzen (2019). [Language disintegration under conditions of severe formal thought disorder.](https://www.glossa-journal.org/article/10.5334/gjgl.720/) In _Glossa: A Journal of General Linguistics, 4(1), 134._
 
