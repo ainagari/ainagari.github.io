@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-aina dot garisoler at telecom-paris dot fr
+aina dot gari-soler at inria dot fr
 
 
 Office B11\
