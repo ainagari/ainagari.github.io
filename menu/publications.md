@@ -17,7 +17,7 @@ title: Publications
 
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2023). [Measuring Lexico-Semantic Alignment in Debates with Contextualized Word Representations](https://aclanthology.org/2023.sicon-1.6/). In _Proceedings of the First Workshop on Social Influence in Conversations (SICon 2023), Toronto, Canada, July 14._ 🏆 **Outstanding Paper Award**
 
-* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2023). [Un mot, deux facettes : traces des opinions dans les représentations contextualisées des mots](https://aclanthology.org/2023.jeptalnrecital-international.6/). In _Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 4 : articles déjà soumis ou acceptés en conférence internationale, Paris, France, June 5-8._
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2023). [Un mot, deux facettes : traces des opinions dans les représentations contextualisées des mots](https://aclanthology.org/2023.jeptalnrecital-international.6/). In _Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 4 : articles déjà soumis ou acceptés en conférence internationale, Paris, France, June 5-8._ `in French`
 
 
 #### 2022
@@ -68,10 +68,10 @@ title: Publications
 
 ### Theses
 
-* Aina Garí Soler (2021). [Word Meaning Representation in Neural Language Models : Lexical Polysemy and Semantic Relationships](https://theses.hal.science/tel-03341706/document). PhD thesis, Université Paris Saclay.
+* Aina Garí Soler (2021). [Word Meaning Representation in Neural Language Models: Lexical Polysemy and Semantic Relationships](https://theses.hal.science/tel-03341706/document). PhD thesis, Université Paris Saclay.
   
 * Aina Garí Soler (2017). [Modelling Differences between Near-Synonyms and its Application to Paraphrasing with Formality](https://github.com/ainagari/ainagari.github.io/blob/master/AinaGari_MastersThesis_NearSynonymy.pdf). Master's thesis, University of Malta.
   
-* Aina Garí Soler (2015). [Aproximacions quantitatives al significat](https://clic.ub.edu/sites/default/files/tesi/arxius/tfg-AINA%20GARI.pdf) (Quantitative approaches to meaning). Bachelor's thesis, University of Barcelona. `in Catalan`
+* Aina Garí Soler (2015). [Aproximacions quantitatives al significat](https://clic.ub.edu/sites/default/files/tesi/arxius/tfg-AINA%20GARI.pdf) (Quantitative approaches to meaning). Bachelor's thesis, Universitat de Barcelona. `in Catalan`
 
 
