@@ -64,4 +64,14 @@ title: Publications
 * Mariona Taulé, M. Antònia Martí, Ann Bies, **Aina Garí**, Montserrat Nofre, Zhiyi Song, Stephanie Strassel and Joe Ellis (2015). [Spanish Treebank Annotation of Informal Non-Standard Web Text](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/nlpit2015-spanish-treebank-annotation.pdf). In _Daniel, F. and Díaz O. (Eds.) Proceedings of ICWE-2015, Lecture Notes in Computer Science. Springer Verlag. ISSN 0302-9743._
 
 * Muntsa Padró, Núria Bel and **Aina Garí** (2013). [Verb SCF extraction for Spanish with dependency parsing](https://pdfs.semanticscholar.org/0505/8e6c6e9f2851570b64fb1cce1374071908e5.pdf?_ga=2.240515524.617673213.1562600575-496965568.1562600575). In _Procesamiento del Lenguaje Natural 51, 93-100. September 2013._
+ 
+
+### Theses
+
+* Aina Garí Soler (2021). [Word Meaning Representation in Neural Language Models : Lexical Polysemy and Semantic Relationships](https://theses.hal.science/tel-03341706/document). PhD thesis, Université Paris Saclay.
+  
+* Aina Garí Soler (2017). [Modelling Differences between Near-Synonyms and its Application to Paraphrasing with Formality](https://github.com/ainagari/ainagari.github.io/blob/master/AinaGari_MastersThesis_NearSynonymy.pdf). Master's thesis, University of Malta.
+  
+* Aina Garí Soler (2015). [Aproximacions quantitatives al significat](https://clic.ub.edu/sites/default/files/tesi/arxius/tfg-AINA%20GARI.pdf) (Quantitative approaches to meaning). Bachelor's thesis, University of Barcelona. `in Catalan`
+
 
