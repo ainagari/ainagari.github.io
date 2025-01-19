@@ -46,7 +46,7 @@ title: Publications
 
 #### 2019
 
-* **Aina Garí Soler**, Marianna Apidianaki and Alexandre Allauzen (2019). [LIMSI-MultiSem at the IJCAI SemDeep-5 WiC Challenge: Context Representations for Word Usage Similarity Estimation](http://www.dfki.de/~declerck/semdeep-5/papers/wic_SemDeep-5_paper_4.pdf). In _5th Workshop on Semantic Deep Learning (SemDeep-5)._  
+* **Aina Garí Soler**, Marianna Apidianaki and Alexandre Allauzen (2019). [LIMSI-MultiSem at the IJCAI SemDeep-5 WiC Challenge: Context Representations for Word Usage Similarity Estimation](https://aclanthology.org/W19-5802/). In _5th Workshop on Semantic Deep Learning (SemDeep-5)._  
 
 * **Aina Garí Soler**, Marianna Apidianaki and Alexandre Allauzen (2019). [Word Usage Similarity Estimation with Sentence Representations and Automatic Substitutes](https://www.aclweb.org/anthology/S19-1002). In *Proceedings of the 8th Joint Conference on Lexical and Computational Semantics (STARSEM2019), Jun 6-7, Minneapolis, USA.* `Accepted at ACL 2019` 
 
