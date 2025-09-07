@@ -10,6 +10,8 @@ title: Publications
 * **Aina Garí Soler**, Jenny Myrendal, Chloé Clavel and Staffan Larsson. [The NeWMe Corpus: A gold standard corpus for the study of Word Meaning Negotiation](https://doi.org/10.21203/rs.3.rs-5975927/v1). Submitted to  _Language Resources & Evaluation_.
 
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2025). Toward the Automatic Detection of Word Meaning Negotiation Indicators in Conversation. Accepted at _Findings of the Association for Computational Linguistics: EMNLP 2025_.
+  
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2025). Potentially Problematic Word Usages and How to Detect Them: A Survey. Accepted at the _ 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025)_.
 
 #### 2024
 
