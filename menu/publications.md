@@ -11,7 +11,7 @@ title: Publications
 
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2025). Toward the Automatic Detection of Word Meaning Negotiation Indicators in Conversation. Accepted at _Findings of the Association for Computational Linguistics: EMNLP 2025_.
   
-* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2025). Potentially Problematic Word Usages and How to Detect Them: A Survey. Accepted at the _ 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025)_.
+* **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2025). Potentially Problematic Word Usages and How to Detect Them: A Survey. Accepted at the _14th Joint Conference on Lexical and Computational Semantics (*SEM 2025)_.
 
 #### 2024
 
