@@ -4,7 +4,7 @@ title: Contact
 ---
 
 
-aina dot gari-soler at psl dot eu
+aina dot gari-soler at psl dot eu\
 aina dot gari-soler at inria dot fr
 
 At PSL:
