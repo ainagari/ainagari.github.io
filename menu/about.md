@@ -9,6 +9,11 @@ After that, I followed the Erasmus Mundus Master [Language and Communication Tec
 
 During my studies, I worked as a research assistant in four occasions for the University of Barcelona, Pompeu Fabra University and the University of Saarland, working in different (computational) linguistics-related topics, such as corpus annotation.
 
+I completed my PhD at the [LISN](https://www.lisn.upsaclay.fr/) lab (former LIMSI), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), under the supervision of Marianna Apidianaki and Alexandre Allauzen.
+My thesis, defended in June 2021, addresses the representation of different aspects of word meaning in neural language models. It was part of the ANR [MultiSem](https://sites.google.com/view/multisem/home) project.
+
+Before my current position, I was a postdoctoral researcher, first at [Télécom-Paris](https://www.telecom-paris.fr/) and then with the [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team at INRIA Paris, with Chloé Clavel and Matthieu Labeau. 
+
 My mother tongue is Catalan, I speak Spanish fluently; English, French and Russian decently enough, and some Italian and German. My name is pronounced `['ajnə]` and my two last names `[gə'ɾi su'ɫe]`.
 
 
