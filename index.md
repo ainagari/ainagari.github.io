@@ -6,12 +6,13 @@ title: Home
 
 <img align="left" style="padding-right: 30px" src="personal_pic_small.jpg">
 
-Since September 2021, I've been a postdoctoral researcher working with Chloé Clavel and Matthieu Labeau, first at [Télécom-Paris](https://www.telecom-paris.fr/) and now with the [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team at INRIA, in Paris.
+Since October 2025, I am a Senior AI Fellow at [PSL University](https://psl.eu/en) (Paris Sciences & Lettres) and [Paris-Dauphine](https://dauphine.psl.eu/), [Lamsade](https://www.lamsade.dauphine.fr/), where I conduct research in Natural Language Processing (NLP) and I teach. I am also affiliated with the [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team at INRIA Paris.
 
-I did my PhD at the [LISN](https://www.lisn.upsaclay.fr/) lab (former LIMSI), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), under the supervision of Marianna Apidianaki and Alexandre Allauzen.
-My thesis, defended in June 2021, addresses the representation of different aspects of word meaning in neural language models. It was part of the ANR [MultiSem](https://sites.google.com/view/multisem/home) project.
+My broad research area is Natural Language Processing (NLP), and more concretely I am focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in multiple aspects of meaning: (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization and lexical semantic change, among others. In my most recent research, I investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
 
-My broad research area is Natural Language Processing (NLP), and more concretely I am focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in multiple aspects of meaning: (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization and lexical semantic change, among others. In my postdoc, I investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
+I am open to collaborations and welcome potential interns in my areas of research, as well as in related domains (NLP for mental health, low-resource languages, linguistic framing, and others: feel free to [contact me](https://ainagari.github.io/menu/contact.html).)
+
+
 
 <br>
 <br>
@@ -19,6 +20,8 @@ My broad research area is Natural Language Processing (NLP), and more concretely
 
 ### News
 
+* **Oct 2025**: Joined PSL University as a Senior AI Fellow!
+* **Sep 2025**: Papers accepted at Findings of EMNLP and *SEM: See you in Suzhou in November!
 * **Oct 2024**: Joined INRIA's [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team as a postdoctoral researcher.
 * **May 2024**: Attended LREC-COLING and gave a talk at the CS department of the University of Turin.
 * **Jan 2024**: Our paper on the semantic quality of split-word representations has been accepted to **TACL**!
