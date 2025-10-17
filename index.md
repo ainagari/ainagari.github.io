@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-<img align="left" style="padding-right: 30px" src="pic_mx.jpg">
+<img align="left" style="padding-right: 30px" src="personal_pic_small.jpg">
 
 Since September 2021, I've been a postdoctoral researcher working with Chloé Clavel and Matthieu Labeau, first at [Télécom-Paris](https://www.telecom-paris.fr/) and now with the [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team at INRIA, in Paris.
 
