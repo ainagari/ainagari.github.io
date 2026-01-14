@@ -8,10 +8,11 @@ title: Home
 
 Since October 2025, I am a Senior AI Fellow at [PSL University](https://psl.eu/en) (Paris Sciences & Lettres) and [Paris-Dauphine](https://dauphine.psl.eu/), [Lamsade](https://www.lamsade.dauphine.fr/), where I conduct research in Natural Language Processing (NLP) and I teach. I am also affiliated with the [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team at INRIA Paris.
 
-My broad research area is Natural Language Processing (NLP), and more concretely I am focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in multiple aspects of meaning: (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization and lexical semantic change, among others. In my most recent research, I investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
+My broad research area is Natural Language Processing (NLP), more concretely I am focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in multiple aspects of meaning: (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization and lexical semantic change, among others. In my most recent research, I investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
 
 I am open to collaborations and welcome potential interns in my areas of research, as well as in related domains (NLP for mental health, low-resource languages, linguistic framing, and others: feel free to [contact me](https://ainagari.github.io/menu/contact.html).)
 
+**Open position**: 6-month Master's internship on conversational NLP - see the call [here](https://github.com/ainagari/ainagari.github.io/blob/master/documents/Internship_call_indicator_detection_2026.pdf).
 
 
 <br>
