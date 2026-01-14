@@ -5,7 +5,7 @@ title: About
 
 I completed my Bachelor's degree in Linguistics at the University of Barcelona in 2015. During my studies, I spent half a year in Saint Petersburg, Russia, with a generous Eranet-Mundus Mobility scholarship.
 
-After that, I followed the Erasmus Mundus Master [Language and Communication Technologies](https://lct-master.org/), which took me to Saarland University (Saarbrücken, Germany) and the University of Malta (Msida, Malta), for a year each. My Master's thesis on near-synonymy can be found [here](https://github.com/ainagari/ainagari.github.io/blob/master/AinaGari_MastersThesis_NearSynonymy.pdf).
+After that, I followed the Erasmus Mundus Master [Language and Communication Technologies](https://lct-master.org/), which took me to Saarland University (Saarbrücken, Germany) and the University of Malta (Msida, Malta), for a year each. My Master's thesis on near-synonymy can be found [here](https://github.com/ainagari/ainagari.github.io/blob/master/documents/AinaGari_MastersThesis_NearSynonymy.pdf).
 
 During my studies, I worked as a research assistant in four occasions for the University of Barcelona, Pompeu Fabra University and the University of Saarland, working in different (computational) linguistics-related topics, such as corpus annotation.
 
