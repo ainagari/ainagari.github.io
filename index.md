@@ -12,10 +12,13 @@ My broad research area is Natural Language Processing (NLP), more concretely I a
 
 I am open to collaborations and welcome potential interns in my areas of research, as well as in related domains (NLP for mental health, low-resource languages, linguistic framing, and others: feel free to [contact me](https://ainagari.github.io/menu/contact.html).)
 
-**Open position**: 6-month Master's internship on conversational NLP - see the call [here](https://github.com/ainagari/ainagari.github.io/blob/master/documents/Internship_call_indicator_detection_2026.pdf).
-
 
 <br>
+
+📣 **Open position**: 6-month Master's internship on conversational NLP - see the call [here](https://github.com/ainagari/ainagari.github.io/blob/master/documents/Internship_call_indicator_detection_2026.pdf).
+
+
+
 <br>
 
 
