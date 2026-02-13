@@ -7,7 +7,9 @@ title: Publications
 
 #### Upcoming
 
-* **Aina Garí Soler**, Jenny Myrendal, Chloé Clavel and Staffan Larsson. [The NeWMe Corpus: A gold standard corpus for the study of Word Meaning Negotiation](https://doi.org/10.21203/rs.3.rs-5975927/v1). Submitted to  _Language Resources & Evaluation_.
+* **Aina Garí Soler**, Juan Carlos Zevallos Huaco, Matthieu Labeau and Chloé Clavel (2026). Scare Quotes as Markers of "Questionable" Word Usages and Misalignment in Conversation: An Annotation Study. Accepted to the _Fifteenth Language Resources and Evaluation Conference: LREC 2026, Palma de Mallorca, Spain, May 13-15_.
+
+* **Aina Garí Soler**, Jenny Myrendal, Chloé Clavel and Staffan Larsson (2026). [The NeWMe Corpus: A gold standard corpus for the study of Word Meaning Negotiation](https://doi.org/10.21203/rs.3.rs-5975927/v1). Accepted to  _Language Resources & Evaluation_.
 
 #### 2025
 
