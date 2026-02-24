@@ -12,7 +12,7 @@ At PSL:
 PariSanté Campus\
 2-10 Rue d’Oradour-sur-Glane\
 75015 Paris\
-France\
+France
 
 
 At INRIA:
