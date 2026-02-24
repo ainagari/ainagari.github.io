@@ -15,8 +15,9 @@ I am open to collaborations and welcome potential interns in my areas of researc
 
 <br>
 
+<!---
 📣 **Open position**: 6-month Master's internship on conversational NLP - see the call [here](https://github.com/ainagari/ainagari.github.io/blob/master/documents/Internship_call_indicator_detection_2026.pdf).
-
+-->
 
 
 <br>
