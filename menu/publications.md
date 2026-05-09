@@ -5,22 +5,22 @@ title: Publications
 
 
 
-#### Upcoming
-
-* **Aina Garí Soler**, Juan Carlos Zevallos Huaco, Matthieu Labeau and Chloé Clavel (2026). Scare Quotes as Markers of "Questionable" Word Usages and Misalignment in Conversation: An Annotation Study. Accepted to the _Fifteenth Language Resources and Evaluation Conference: LREC 2026, Palma de Mallorca, Spain, May 13-15_.
 
 #### 2026
 
+* **Aina Garí Soler**, Juan Carlos Zevallos Huaco, Matthieu Labeau and Chloé Clavel (2026). [Scare Quotes as Markers of "Questionable" Word Usages and Misalignment in Conversation: An Annotation Study](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.927.pdf). In _Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11834–11851). European Language Resources Association (ELRA)._
+
 * **Aina Garí Soler**, Jenny Myrendal, Chloé Clavel and Staffan Larsson (2026). [The NeWMe Corpus: a gold standard corpus for the study of word meaning negotiation](https://link.springer.com/article/10.1007/s10579-026-09907-x). Language Resources and Evaluation, 60, 38.
+  
 
 #### 2025
 
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2025). [Toward the Automatic Detection of Word Meaning Negotiation Indicators in Conversation](https://aclanthology.org/2025.findings-emnlp.1337/). In _Findings of the Association for Computational Linguistics: EMNLP 2025, Suzhou, China, November 5-7_.
   
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2025). [Potentially Problematic Word Usages and How to Detect Them: A Survey](https://aclanthology.org/2025.starsem-1.35/). In _Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025), Suzhou, China, November 8-9_.
+  
 
 #### 2024
-
 
 * **Aina Garí Soler**, Matthieu Labeau and Chloé Clavel (2024). [The Impact of Word Splitting on the Semantic Content of Contextualized Word Representations](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00647/120475/The-Impact-of-Word-Splitting-on-the-Semantic). In _Transactions of the Association for Computational Linguistics (TACL), 12 299–320_.
 
