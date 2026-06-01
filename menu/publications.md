@@ -85,7 +85,7 @@ title: Publications
 
 * Aina Garí Soler (2021). [Word Meaning Representation in Neural Language Models: Lexical Polysemy and Semantic Relationships](https://theses.hal.science/tel-03341706/document). PhD thesis, Université Paris Saclay.
   
-* Aina Garí Soler (2017). [Modelling Differences between Near-Synonyms and its Application to Paraphrasing with Formality](https://github.com/ainagari/ainagari.github.io/blob/master/AinaGari_MastersThesis_NearSynonymy.pdf). Master's thesis, University of Malta.
+* Aina Garí Soler (2017). [Modelling Differences between Near-Synonyms and its Application to Paraphrasing with Formality](https://github.com/ainagari/ainagari.github.io/blob/master/documents/AinaGari_MastersThesis_NearSynonymy.pdf). Master's thesis, University of Malta.
   
 * Aina Garí Soler (2015). [Aproximacions quantitatives al significat](https://clic.ub.edu/sites/default/files/tesi/arxius/tfg-AINA%20GARI.pdf) (Quantitative approaches to meaning). Bachelor's thesis, Universitat de Barcelona. `in Catalan`
 
