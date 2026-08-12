@@ -8,7 +8,7 @@ title: Publications
 
 #### 2026
 
-* **Aina Garí Soler**, Juan Carlos Zevallos Huaco, Matthieu Labeau and Chloé Clavel (2026). [Scare Quotes as Markers of "Questionable" Word Usages and Misalignment in Conversation: An Annotation Study](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.927.pdf). In _Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11834–11851). European Language Resources Association (ELRA)._
+* **Aina Garí Soler**, Juan Carlos Zevallos Huaco, Matthieu Labeau and Chloé Clavel (2026). [Scare Quotes as Markers of "Questionable" Word Usages and Misalignment in Conversation: An Annotation Study](https://aclanthology.org/2026.lrec-1.927/). In _Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11834–11851). European Language Resources Association (ELRA)._
 
 * **Aina Garí Soler**, Jenny Myrendal, Chloé Clavel and Staffan Larsson (2026). [The NeWMe Corpus: a gold standard corpus for the study of word meaning negotiation](https://link.springer.com/article/10.1007/s10579-026-09907-x). Language Resources and Evaluation, 60, 38.
   
