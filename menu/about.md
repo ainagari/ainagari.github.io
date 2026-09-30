@@ -30,6 +30,8 @@ My mother tongue is Catalan, I speak Spanish fluently; English, French and Russi
 * Co-organized the 2nd Workshop on Social Influence in Conversations ([SICon 2024](https://sites.google.com/view/sicon2024/home)) co-located with EMNLP
 * Co-organized the [ELLIS 2024 Doctoral Symposium](https://eds2024.github.io/)
 
+<br>
+<br>
 
 
 ### Teaching
@@ -46,9 +48,12 @@ My mother tongue is Catalan, I speak Spanish fluently; English, French and Russi
 Other/Previous:
 * Group project supervision for [MVA's NLP course](https://www.master-mva.com/cours/algorithms-for-speech-and-natural-language-processing/) (2024-2025,2025-2026) and for Télécom Paris Mastère Specialisé en IA, NLP course (2021-2024).
 
+<br>
+<br>
+
 
 ### Supervision
 
-* Arunima Maitra (May 2026, ongoing, research engineer) on the automatic detection of word meaning negotiation indicators
-* Jingyi Zhang (Jan-Aug 2026, internship) on the expression of emotion by non-native speakers
+* Arunima Maitra (May 2026, ongoing, research engineer) on the automatic detection of word meaning negotiation indicators.
+* Jingyi Zhang (Jan-Aug 2026, internship) on the expression of emotion by non-native speakers.
   
