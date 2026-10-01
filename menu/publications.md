@@ -4,7 +4,9 @@ title: Publications
 ---
 
 
+#### Preprints
 
+* **Aina Garí Soler** (2026). [On Obtaining Word-Level Probabilities from Subword Predictions with Masked Language Models](https://hal.science/hal-05770324v1/document). _Under review._
 
 #### 2026
 
