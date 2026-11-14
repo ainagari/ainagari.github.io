@@ -10,13 +10,13 @@ Since October 2025, I am a Senior AI Fellow at [PSL University](https://psl.eu/e
 
 My broad research area is Natural Language Processing (NLP), and most of my work is focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in multiple aspects of meaning: (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization and lexical semantic change, among others. I also investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
 
-I am open to collaborations and welcome potential interns in my areas of research, as well as in related domains (NLP for mental health, low-resource languages, linguistic framing, and others). Currently at capacity, but feel free to [contact me](https://ainagari.github.io/menu/contact.html) for future opportunities.
+I am open to collaborations and welcome potential interns in my areas of research, as well as in related domains (NLP for mental health, multilingual NLP, linguistic framing, and others). Currently at capacity, but feel free to [contact me](https://ainagari.github.io/menu/contact.html) for future opportunities.
 
 
 
 ### News
 
-* **Oct 2026**: Upcoming: two invited talks at the [Lattice](https://www.lattice.cnrs.fr/13-octobre-2026-seminaire-aina-gari-soler/) lab and at the National Research Council of Canada (online).
+* **Oct 2026**: Two invited talks at the [Lattice](https://www.lattice.cnrs.fr/13-octobre-2026-seminaire-aina-gari-soler/) lab and at the National Research Council of Canada (online).
 * **Sep 2026**: Attended the 19th [Machine Translation Marathon](https://mtm2026.iar.kit.edu/) in Karlsruhe.
 * **May-Jul 2026**: Presented our work on scare quotes at LREC and on word meaning negotiation at TALN.
 * **Oct 2025**: Joined PSL University as a Senior AI Fellow!
