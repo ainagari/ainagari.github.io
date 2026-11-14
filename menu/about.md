@@ -54,6 +54,7 @@ Other/Previous:
 
 ### Supervision
 
-* Arunima Maitra (May 2026, ongoing, research engineer) on the automatic detection of word meaning negotiation indicators.
+* Anna Temerko (Oct 2026-Dec 2026, visiting PhD student) on ambiguity and metaphor in language models.
+* Arunima Maitra (May 2026-, ongoing, PhD student) on the automatic detection of word meaning negotiation indicators.
 * Jingyi Zhang (Jan-Aug 2026, internship) on the expression of emotion by non-native speakers.
   
