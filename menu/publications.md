@@ -4,6 +4,11 @@ title: Publications
 ---
 
 
+#### Upcoming
+
+* Jingyi Zhang, Kirill Milintsevich, **Aina Garí Soler** (2027). The Impact of Non-Native English on Emotion and Mental Health Condition Classification in Social Media Text. Accepted at EACL 2027 (Main conference).
+
+
 #### Preprints
 
 * **Aina Garí Soler** (2026). [On Obtaining Word-Level Probabilities from Subword Predictions with Masked Language Models](https://hal.science/hal-05770324v1/document). _Under review._
