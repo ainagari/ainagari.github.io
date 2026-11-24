@@ -24,8 +24,8 @@ My mother tongue is Catalan, I speak Spanish fluently; English, French and Russi
 ### Service
 
 * Senior Area Chair of Lexical Semantics for COLING 2025
-* Area Chair at ARR, Area Chair/Action Editor of Lexical Semantics for LREC-COLING 2024, NAACL 2024, ACL 2024; Area Chair of Semantics and Pragmatics for CoNLL 2025
-* Served as a reviewer for ACL (2021, 2023),  EMNLP (2021, 2022, 2023), EACL (2021), RANLP (2019, 2021, 2023), SemEval (2020), DeeLIO (2022), SRW@ACL (2023, 2024), SRW@EACL (2021, 2023), RJC (2023), NLP4DH-IWCLUL (2024), SICon (2023, 2024), TAFFC, ARR
+* Area Chair at ARR (ongoing), Area Chair/Action Editor of Lexical Semantics for LREC-COLING 2024, NAACL 2024, ACL 2024; Area Chair of Semantics and Pragmatics for CoNLL 2025, 2026
+* Served as a reviewer for ACL (2021, 2023),  EMNLP (2021, 2022, 2023), EACL (2021), RANLP (2019, 2021, 2023), SemEval (2020), DeeLIO (2022), SRW@ACL (2023, 2024), SRW@EACL (2021, 2023), RJC (2023), NLP4DH-IWCLUL (2024), SICon (2023, 2024), TALN (2026), TAFFC, ARR
 * Outstanding reviewer in EACL 2021 and ACL 2021
 * Co-organized the 2nd Workshop on Social Influence in Conversations ([SICon 2024](https://sites.google.com/view/sicon2024/home)) co-located with EMNLP
 * Co-organized the [ELLIS 2024 Doctoral Symposium](https://eds2024.github.io/)
